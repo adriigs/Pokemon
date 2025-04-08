@@ -11,7 +11,7 @@
   <tr>
     <td>
       <a href="https://github.com/adriigs/Pokemon/tree/main/Completados">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Pokeball.png" width="80" alt="Completados" />
+        <img src="https://github.com/user-attachments/assets/82c6cfa4-9852-4114-bc52-11fe205ec892" width="80" alt="Completados" />
       </a>
     </td>
     <td>
@@ -21,7 +21,7 @@
     </td>
     <td>
       <a href="https://github.com/adriigs/Pokemon/tree/main/Leaks">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Pokeball.png" width="80" alt="Leaks" />
+        <img src="https://github.com/user-attachments/assets/f2176076-3f17-49d6-8b1e-4785c81ee10e" width="80" alt="Leaks" />
       </a>
     </td>
   </tr>
