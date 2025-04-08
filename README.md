@@ -16,7 +16,7 @@
     </td>
     <td>
       <a href="https://github.com/adriigs/Pokemon/tree/main/Lockes">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Pokeball.png" width="80" alt="Lockes" />
+        <img src="https://github.com/user-attachments/assets/007ee226-54b8-48d9-8351-de7b7b3ee3ab" width="80" alt="Lockes" />
       </a>
     </td>
     <td>
