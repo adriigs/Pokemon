@@ -32,3 +32,4 @@
 ![completado2](https://github.com/user-attachments/assets/82c6cfa4-9852-4114-bc52-11fe205ec892)
 ![completado](https://github.com/user-attachments/assets/fbcbb49b-c8cc-4da1-bc5e-2e7391a190d0)
 ![leak](https://github.com/user-attachments/assets/f2176076-3f17-49d6-8b1e-4785c81ee10e)
+![Locke](https://github.com/user-attachments/assets/007ee226-54b8-48d9-8351-de7b7b3ee3ab)
