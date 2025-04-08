@@ -6,7 +6,7 @@
   <tr>
     <th>COMPLETADOS</th>
     <th>LOCKES</th>
-    <th>LEAKS</th>
+    <th>LEAKSssssssssssssssssss</th>
   </tr>
   <tr>
     <td>
