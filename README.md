@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <th>COMPLETADOS</th>
+    <th>JUGADOS</th>
     <th>LOCKES</th>
-    <th>LEAKSssssssssssssssssss</th>
+    <th>LEAKS</th>
   </tr>
   <tr>
     <td>
